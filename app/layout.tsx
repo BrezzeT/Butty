@@ -3,7 +3,7 @@ import "./globals.css"
 import React from "react";
 
 export const metadata: Metadata = {
-  title: "Манхетен Прилуки | Butty Space | Салон краси | Manhetten",
+  title: "Butty Space",
   description: "Простор краси та уходу"
 }
 
